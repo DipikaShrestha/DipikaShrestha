@@ -17,13 +17,13 @@
 
 
 
-## 👩‍💻 I’m currently learning **React,Firebase**
+ 👩‍💻 I’m currently learning **React,Firebase**
 
 
 
 
 
-## 😂 Fun fact **I am jolly person**
+😂 Fun fact **I am jolly person**
 
 
 
