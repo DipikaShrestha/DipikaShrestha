@@ -9,18 +9,16 @@
     <h3 align="center">A passionate learner from Nepal who enjoys learning about technology.</h3>
 </div>
 
-
-
-
-<h1> About Me:</h1>
+<h1> About Me:</h1><image align="right" alt="connect"  width="200" src="connect.gif">
 
  👩‍💻 I’m currently learning **React,Firebase**
 
-😂 Fun fact **I am jolly person**
+ 😂 Fun fact **I am jolly person**
 
 
+<div>
 
- <h3 align="left">Language & TOOLS:</h3>
+ <h1 align="left">Language & TOOLS:</h1>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
@@ -38,10 +36,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
     </a> 
     
+   </div>
    
    
-</p>
-<image align="right" alt="connect"  width="300" src="connect.gif">
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <div align="center" id="profile">
@@ -66,6 +64,6 @@
     </a>
    
     
-    
+ 
 </div>
 </p>
