@@ -5,7 +5,7 @@
    
   <p>  <img align="center" width="300" alt="learning" src=".gif "></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times New Roman&weight=500&size=30&pause=1000&color=0F3546&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dipika+Shrestha" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times New Roman&weight=500&size=30&pause=1000&color=0F3546&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dipika+!" alt="Typing SVG" /></a>
     <h3 align="center">A passionate learner from Nepal who enjoys learning about technology.</h3>
 </div>
 
@@ -13,7 +13,7 @@
 
  👩‍💻 I’m currently learning **React,Firebase**
 
- 😂 Fun fact **I am jolly person**
+ 😂 Fun fact **I am Jolly person**
 
 
 <div>
