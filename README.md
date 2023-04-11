@@ -13,7 +13,6 @@
 
  👩‍💻 I’m currently learning **React,Firebase**
 
- 😂 Fun fact **I am Jolly person**
 
 
 <div>
