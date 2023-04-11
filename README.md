@@ -6,7 +6,7 @@
   <p>  <img align="center" width="300" alt="learning" src=".gif "></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times New Roman&weight=500&size=30&pause=1000&color=0F3546&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dipika+!" alt="Typing SVG" /></a>
-    <h3 align="center">A passionate learner from Nepal who enjoys learning about technology.</h3>
+    <h3 align="center"><font face="Monotype Corsiva">I am dedicated to pursuing my interest in technology and am excited to see where it will take me in the future.</font></h3>
 </div>
 
 <h1> About Me:</h1><image align="right" alt="connect"  width="200" src="connect.gif">
