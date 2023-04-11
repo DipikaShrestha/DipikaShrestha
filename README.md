@@ -46,11 +46,11 @@
         <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white"
             alt="Facebook Badge" />
     </a>
-    <a href="">
+    <a href="https://www.instagram.com/_dipikashrestha/">
         <img src="https://img.shields.io/badge/Instagram-critical?style=flat&logo=instagram&logoColor=white"
             alt="Instagram Badge" />
     </a>
-    <a href="https://twitter.com/_dipikashrestha?t=GXFC50PlLuGc1oOC9H8mDA&s=09">
+    <a href="https://twitter.com/_dipikashrestha">
         <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white"
             alt="Twitter Badge" />
     </a>
