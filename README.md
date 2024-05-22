@@ -11,7 +11,7 @@
 
 <h1> About Me:</h1><image align="right" alt="connect"  width="200" src="connect.gif">
 
- 👩‍💻 I’m currently learning **React,Firebase**
+ 👩‍💻 I’m currently learning ****
 
 
 
